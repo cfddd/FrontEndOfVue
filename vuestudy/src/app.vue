@@ -21,7 +21,7 @@
 </script>
 
 <template>
-
+  <vue16/>
   <vue17/>
 </template>
 

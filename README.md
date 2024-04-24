@@ -2,6 +2,16 @@
 
 本仓库记录了我学习Vue的基础操作的过程和学习资源。
 
+```sh
+vue-component-data  // 数据
+vue-component-life  // 生命周期
+vue-component-slot  // 插槽
+vue-components      // 组件
+vue-components-event // 侦听器
+vue-components-qt   // 组件传递
+vuestudy            // 基础语法
+```
+
 ## 学习资源
 我使用了以下学习资源来学习Vue的基础操作：
 
@@ -17,3 +27,5 @@
 1. 克隆或下载本仓库到您的本地环境。
 2. 根据需要查看和运行`src/`目录下的代码示例。
 3. 参考学习资源中提供的视频教程来学习Vue的基础操作。
+
+# JavaWeb的前端相关学习
